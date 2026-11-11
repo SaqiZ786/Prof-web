@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /README.txt
+
+Sitemap: https://profiniti.net/sitemap.xml
